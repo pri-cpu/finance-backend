@@ -117,6 +117,12 @@ Use Postman:
 
 ---
 
+## 🌐 API Documentation
+
+You can explore and test all API endpoints using the Postman documentation link below:
+
+🔗 https://documenter.getpostman.com/view/46716293/2sBXiom9vx
+
 ## 💰 Financial Accuracy Note
 
 Amounts should ideally be stored as integers (cents) to avoid floating-point errors.
